@@ -1,4 +1,4 @@
-# Single server with infinite capacity (M/M/1):(oo/FIFO)
+# EXP 04 - Single server with infinite capacity (M/M/1):(oo/FIFO)
 ### Name : LOKNAATH.P
 ### Register Number : 212223240080
 
@@ -27,7 +27,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 
  
-## Program
+## Program:
 ```python
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time=float(input("Enter the mean  inter service time of Lathe Machine (in secs) :  "))
